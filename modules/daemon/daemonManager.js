@@ -18,7 +18,7 @@ const rpc = require('../rpc/rpc');
 // dev
 // const BINARY_URL = 'https://raw.githubusercontent.com/falcon/falcon-desktop/develop/modules/clientBinaries/clientBinaries.json';
 const branchName = (branch || 'develop').replace('-', '/');
-const BINARY_URL = `https://raw.githubusercontent.com/dmitry9888/falcon-desktop/main/modules/clientBinaries/clientBinaries.json`;
+const BINARY_URL = `https://raw.githubusercontent.com/ProjectFalcon/falcon-desktop/main/modules/clientBinaries/clientBinaries.json`;
 
 //const ALLOWED_DOWNLOAD_URLS_REGEX = new RegExp('*', 'i');
 
