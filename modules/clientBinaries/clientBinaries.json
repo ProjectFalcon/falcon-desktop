@@ -70,7 +70,7 @@
             "download": {
               "url": "https://github.com/ProjectFalcon/falcon-core/releases/download/v6.0/falcon-2.0-osx.zip",
               "type": "zip",
-              "sha256": "7927d8b82275a5710779ad08f9dc1bdffa78d4d8193a9dd769759a462f4ba391",
+              "sha256": "874e8737a34778d28b05ca649d1ba9c30c074432870224f3cb0732a321e581f4",
               "bin": "falcon-2.0-osx/bin/falcond"
             },
             "bin": "falcond",
