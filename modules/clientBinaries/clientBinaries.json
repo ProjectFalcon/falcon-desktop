@@ -8,10 +8,10 @@
             "download": {
               "url": "https://github.com/ProjectFalcon/falcon-core/releases/download/v6.0/falcon-2.0-linux.zip",
               "type": "zip",
-              "sha256": "77e8ccb4ec3f9510f21fee0bfb8d896ed270d07c5f82333adbbb80a9241a186f",
-              "bin": "falcon-2.0-linux/bin/falcond"
+              "sha256": "768adeaa4e5133cb1eb7c18b7d8ff0c8da35918dcd44209bf5dd27ec929b02141",
+              "bin": "falcon-2.0-linux/bin/particld"
             },
-            "bin": "falcond",
+            "bin": "particld",
             "commands": {
               "sanity": {
                 "args": [
@@ -28,10 +28,10 @@
             "download": {
               "url": "https://github.com/ProjectFalcon/falcon-core/releases/download/v6.0/falcon-2.0-linux.zip",
               "type": "zip",
-              "sha256": "77e8ccb4ec3f9510f21fee0bfb8d896ed270d07c5f82333adbbb80a9241a186f",
-              "bin": "falcon-2.0-linux/bin/falcond"
+              "sha256": "68adeaa4e5133cb1eb7c18b7d8ff0c8da35918dcd44209bf5dd27ec929b02141",
+              "bin": "falcon-2.0-linux/bin/particld"
             },
-            "bin": "falcond",
+            "bin": "particld",
             "commands": {
               "sanity": {
                 "args": [
@@ -48,10 +48,10 @@
             "download": {
               "url": "https://github.com/ProjectFalcon/falcon-core/releases/download/v6.0/falcon-2.0-linux.zip",
               "type": "zip",
-              "sha256": "77e8ccb4ec3f9510f21fee0bfb8d896ed270d07c5f82333adbbb80a9241a186f",
-              "bin": "falcon-2.0-linux/bin/falcond"
+              "sha256": "68adeaa4e5133cb1eb7c18b7d8ff0c8da35918dcd44209bf5dd27ec929b02141",
+              "bin": "falcon-2.0-linux/bin/particld"
             },
-            "bin": "falcond",
+            "bin": "particld",
             "commands": {
               "sanity": {
                 "args": [
